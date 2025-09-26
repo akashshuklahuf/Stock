@@ -1,8 +1,3 @@
-# app.py
-
-# Streamlit Enhanced Stock Screener
-!pip install yfinance textblob streamlit requests beautifulsoup4
-
 import streamlit as st
 import yfinance as yf
 from textblob import TextBlob
